@@ -1,0 +1,20 @@
+Bees Algorithm for Travelling Salesman Problems
+version 1.0.0 (1.23 MB) by murat murat
+Bees Algorithm for Travelling Salesman Problems
+ (0)
+8 Downloads 
+
+Updated 05 Feb 2022
+
+View License
+
+ 
+Overview
+Functions
+Reviews (0)
+Discussions (0)
+It is the Bees Algorithm for TSP. Just run the ba_tsp.m file. You can find detailed information in the paper. Please refer to this paper if you use it in your work. Prepared in Matlab R2018a.
+Cite As
+murat murat (2022). Bees Algorithm for Travelling Salesman Problems (https://www.mathworks.com/matlabcentral/fileexchange/106245-bees-algorithm-for-travelling-salesman-problems), MATLAB Central File Exchange. Retrieved February 11, 2022.
+
+M. Şahin , "Improvement of the Bees Algorithm for Solving the Traveling Salesman Problems", Bilişim Teknolojileri Dergisi, c. 15, sayı. 1, ss. 65-74, Oca. 2022, doi:10.17671/gazibtd.991866
